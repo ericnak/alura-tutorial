@@ -22,6 +22,10 @@ public class Programa {
 
 		System.out.println(fulano.nome);
 		System.out.println(ciclano.nome);
+		
+
+		System.out.println(fulano.departamento);
+		System.out.println(ciclano.departamento);
 	}
 
 }
