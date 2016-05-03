@@ -19,6 +19,9 @@ public class Programa {
 		
 		System.out.println(fulano.salario);
 		System.out.println(ciclano.salario);
+
+		System.out.println(fulano.nome);
+		System.out.println(ciclano.nome);
 	}
 
 }
